@@ -1,0 +1,6 @@
+﻿  main.cpp
+D:\程序盘\C++code\z11\z11\main.cpp(6,30): warning C4081: 应输入“newline”；找到“;”
+D:\程序盘\C++code\z11\z11\main.cpp(179,9): warning C4477: “printf”: 格式字符串“%S”需要类型“wchar_t *”的参数，但可变参数 7 拥有了类型“const char *”
+D:\程序盘\C++code\z11\z11\main.cpp(179,9): message : 请考虑在格式字符串中使用“%hS”
+D:\程序盘\C++code\z11\z11\main.cpp(179,9): message : 请考虑在格式字符串中使用“%TS”
+  z11.vcxproj -> D:\程序盘\C++code\z11\z11\Debug\z11.exe

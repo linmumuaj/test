@@ -1,0 +1,3 @@
+﻿  main1.cpp
+D:\software_pie\install_position\vs2019_setup\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(997,5): error MSB6006: “link.exe”已退出，代码为 1168。
+LINK : fatal error LNK1168: 无法打开 D:\程序盘\C++code\pTest\pTest\Debug\pTest.exe 进行写入
